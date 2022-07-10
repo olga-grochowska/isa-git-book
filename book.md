@@ -6,3 +6,6 @@ Najlepiej zacząć naukę, ucząc się HTML. Zacznij od czytania wstępnych tre�
 
 ## Moduły
 W tym temacie znajdziesz następujące moduły, w sugerowanej kolejności ich przerabiania. Z całą pewnością powinieneś zacząć od pierwszego.
+
+## Solving common HTML problems
+Use HTML to solve common problems provides links to sections of content explaining how to use HTML to solve very common problems when creating a webpage: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.
